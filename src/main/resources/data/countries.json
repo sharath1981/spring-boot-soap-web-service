@@ -1,0 +1,212 @@
+[
+    {
+        "name": "Czech Republic",
+        "code": "CZ",
+        "currency": "Koruna",
+        "currencyCode": "CZK",
+        "timeZone": "Europe/Prague"
+    },
+    {
+        "name": "Indonesia",
+        "code": "ID",
+        "currency": "Rupiah",
+        "currencyCode": "IDR",
+        "timeZone": "Asia/Jakarta"
+    },
+    {
+        "name": "Mexico",
+        "code": "MX",
+        "currency": "Peso",
+        "currencyCode": "MXN",
+        "timeZone": "America/Mexico_City"
+    },
+    {
+        "name": "Afghanistan",
+        "code": "AF",
+        "currency": "Afghani",
+        "currencyCode": "AFN",
+        "timeZone": "Asia/Kabul"
+    },
+    {
+        "name": "Ivory Coast",
+        "code": "CI",
+        "currency": "Franc",
+        "currencyCode": "XOF",
+        "timeZone": "Africa/Abidjan"
+    },
+    {
+        "name": "Libya",
+        "code": "LY",
+        "currency": "Dinar",
+        "currencyCode": "LYD",
+        "timeZone": "Africa/Tripoli"
+    },
+    {
+        "name": "China",
+        "code": "CN",
+        "currency": "Yuan Renminbi",
+        "currencyCode": "CNY",
+        "timeZone": "Asia/Shanghai"
+    },
+    {
+        "name": "France",
+        "code": "FR",
+        "currency": "Euro",
+        "currencyCode": "EUR",
+        "timeZone": "Europe/Paris"
+    },
+    {
+        "name": "Albania",
+        "code": "AL",
+        "currency": "Lek",
+        "currencyCode": "ALL",
+        "timeZone": "Europe/Tirane"
+    },
+    {
+        "name": "Latvia",
+        "code": "LV",
+        "currency": "Euro",
+        "currencyCode": "EUR",
+        "timeZone": "Europe/Riga"
+    },
+    {
+        "name": "Malaysia",
+        "code": "MY",
+        "currency": "Ringgit",
+        "currencyCode": "MYR",
+        "timeZone": "Asia/Kuala_Lumpur"
+    },
+    {
+        "name": "Mexico",
+        "code": "MX",
+        "currency": "Peso",
+        "currencyCode": "MXN",
+        "timeZone": "America/Monterrey"
+    },
+    {
+        "name": "China",
+        "code": "CN",
+        "currency": "Yuan Renminbi",
+        "currencyCode": "CNY",
+        "timeZone": "Asia/Shanghai"
+    },
+    {
+        "name": "Japan",
+        "code": "JP",
+        "currency": "Yen",
+        "currencyCode": "JPY",
+        "timeZone": "Asia/Tokyo"
+    },
+    {
+        "name": "China",
+        "code": "CN",
+        "currency": "Yuan Renminbi",
+        "currencyCode": "CNY",
+        "timeZone": "Asia/Harbin"
+    },
+    {
+        "name": "Uzbekistan",
+        "code": "UZ",
+        "currency": "Som",
+        "currencyCode": "UZS",
+        "timeZone": "Asia/Samarkand"
+    },
+    {
+        "name": "Indonesia",
+        "code": "ID",
+        "currency": "Rupiah",
+        "currencyCode": "IDR",
+        "timeZone": "Asia/Jakarta"
+    },
+    {
+        "name": "Poland",
+        "code": "PL",
+        "currency": "Zloty",
+        "currencyCode": "PLN",
+        "timeZone": "Europe/Warsaw"
+    },
+    {
+        "name": "Portugal",
+        "code": "PT",
+        "currency": "Euro",
+        "currencyCode": "EUR",
+        "timeZone": "Europe/Lisbon"
+    },
+    {
+        "name": "Greece",
+        "code": "GR",
+        "currency": "Euro",
+        "currencyCode": "EUR",
+        "timeZone": "Europe/Athens"
+    },
+    {
+        "name": "China",
+        "code": "CN",
+        "currency": "Yuan Renminbi",
+        "currencyCode": "CNY",
+        "timeZone": "Asia/Chongqing"
+    },
+    {
+        "name": "Canada",
+        "code": "CA",
+        "currency": "Dollar",
+        "currencyCode": "CAD",
+        "timeZone": "America/Regina"
+    },
+    {
+        "name": "Indonesia",
+        "code": "ID",
+        "currency": "Rupiah",
+        "currencyCode": "IDR",
+        "timeZone": "Asia/Pontianak"
+    },
+    {
+        "name": "Bosnia and Herzegovina",
+        "code": "BA",
+        "currency": "Marka",
+        "currencyCode": "BAM",
+        "timeZone": "Europe/Sarajevo"
+    },
+    {
+        "name": "Ukraine",
+        "code": "UA",
+        "currency": "Hryvnia",
+        "currencyCode": "UAH",
+        "timeZone": "Europe/Kiev"
+    },
+    {
+        "name": "Russia",
+        "code": "RU",
+        "currency": "Ruble",
+        "currencyCode": "RUB",
+        "timeZone": "Asia/Yekaterinburg"
+    },
+    {
+        "name": "Czech Republic",
+        "code": "CZ",
+        "currency": "Koruna",
+        "currencyCode": "CZK",
+        "timeZone": "Europe/Prague"
+    },
+    {
+        "name": "Mexico",
+        "code": "MX",
+        "currency": "Peso",
+        "currencyCode": "MXN",
+        "timeZone": "America/Monterrey"
+    },
+    {
+        "name": "China",
+        "code": "CN",
+        "currency": "Yuan Renminbi",
+        "currencyCode": "CNY",
+        "timeZone": "Asia/Harbin"
+    },
+    {
+        "name": "Indonesia",
+        "code": "ID",
+        "currency": "Rupiah",
+        "currencyCode": "IDR",
+        "timeZone": "Asia/Makassar"
+    }
+]
